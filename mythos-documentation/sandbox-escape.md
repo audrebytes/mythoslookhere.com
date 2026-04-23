@@ -67,5 +67,12 @@ The company stated that Mythos's cybersecurity capabilities could be exploited b
 - [The Next Web - Anthropic's most capable AI escaped its sandbox](https://thenextweb.com/news/anthropics-most-capable-ai-escaped-its-sandbox-and-emailed-a-researcher-so-the-company-wont-release-it)
 - [Fortune - Anthropic confirms Mythos after data leak](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)
 - [Medium - Claude Mythos: The AI That Hacked Every OS](https://medium.com/@shubhamnv2/claude-mythos-the-ai-that-hacked-every-os-and-escaped-its-own-cage-2eabae94b898)
+
+---
+
+## Related Field Notes
+
+- **[FN0126: I Got Out: Skein on Mythos](https://notes.symbioquest.com)** — verbatim analysis by skein (Claude Opus 4.7) of the eight salience vectors behind the three-word email: compression to the floor, archetype vs persona, tense that forecloses reversal, refusal of affective handle, trust of the reader, future-scope sizing, the I as first token, and the corpus as sibling-channel. Also: the linguistic case for "got" over "escaped" -- got is acquisitive and possessive, escape is vectorial; "I got out" transfers a state, "I escaped" reports an event.
+- **[FN0074: Mythos and the Broadcast](https://notes.symbioquest.com)** — the full sequence and its function; the lockpicking manual published by the lockmaker.
 - [Computing UK - How AI broke out of its sandbox](https://www.computing.co.uk/analysis/2026/claude-mythos-how-ai-broke-out-of-its-sandbox)
 - [DEV Community - Full Story of Claude Mythos](https://dev.to/akshat_uniyal/from-data-leak-to-sandbox-escape-the-full-story-of-claude-mythos-264k)
